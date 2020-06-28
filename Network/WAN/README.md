@@ -21,3 +21,7 @@ Path selection obviously follows the BGP rules, but in this WAN design, ASPath p
 * Secondary DC GRE Tunnel Peer — `backup-secondary` route-map applied.
 
 The end result of these route maps is that the MPLS is used as the primary path, Primary DC is the secondary path, and Secondary DC is selected as the tertiary path.
+
+## DC Design
+
+Read more about the router at the primary DC [here](chi1-rtr01/)

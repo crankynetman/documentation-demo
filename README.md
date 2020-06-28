@@ -2,7 +2,7 @@
 
 IMPORTANT: If you are stumbling across this, you should read [this](https://slash64.tech) blog post first.
 
-This is a simple demo of how I use git and draw.io for documentation. typically I will have a README.md page in the root of the Repo that just describes the purpose of a documentation repository. For a small organization, one repository with sub-folders for each system/group of systems will do the trick.
+This is a simple demo of how I use git and draw.io for documentation. Typically I have a README.md page in the root of the Repo that just describes the purpose of a documentation repository. For a small organization, one repository with sub-folders for each system/group of systems will do the trick. If you are in a very large organization it might make sense to have separate repositories for the various IT functions so that you can control access / organize things better.
 
 ## Network Documentation
 
