@@ -8,10 +8,10 @@ This is a simple demo of how I use git and draw.io for documentation. typically 
 
 For documentation on network devices, please use the [Network](/Network/) folder.
 
+## Systems and Network Monitoring Documentation
+
+For documentation on monitoring infrastructure please use the [Monitoring](/Systems and Network Monitoring/) folder.
+
 ## Systems Documentation
 
 For documentation on server systems please use the [Systems](/Systems/) folder.
-
-## Monitoring Documentation
-
-For documentation on monitoring infrastructure please use the [Monitoring](/Monitoring/) folder.
