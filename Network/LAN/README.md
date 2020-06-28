@@ -4,7 +4,7 @@
 
 This is a very contrived example of a LAN. In this LAN design, We have a bog-standard Core/Distribution/Access layers that provide connectivity. The overall design is shown in the image below:
 
-![Architecture Diagram](LAN_Overview.png)
+![Architecture Diagram](LAN_Overview.png#2)
 
 ### Routing Design
 
