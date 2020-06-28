@@ -8,7 +8,7 @@ WAN 1.0 is a very contrived example of a WAN. In this WAN design, each site has 
 
 ## Routing Design
 
-The routing for WAN 1.0 is provided by eBGP. Each site has its own ASN and has at least 3 peers.
+The routing for the WAN is provided by eBGP. Each site has its own ASN and has at least 3 peers.
 
 * Peer with PE router
 * Peer with Primary DC Router over GRE tunnel
