@@ -2,7 +2,7 @@
 
 ## Architecture
 
-WAN 1.0 is a very contrived example of a WAN. In this WAN design, each site has a single WAN router that handles all of the WAN routing for that site. Each site router terminates a private full-mesh IPVPN MPLS circuit and two standard GRE tunnels to each DC. The overall design is shown in the image below:
+This is a very contrived example of a WAN. In this WAN design, each site has a single WAN router that handles all of the WAN routing for that site. Each site router terminates a private full-mesh IPVPN MPLS circuit and two standard GRE tunnels to each DC. The overall design is shown in the image below:
 
 ![Architecture Diagram](WAN_Overview.png)
 
